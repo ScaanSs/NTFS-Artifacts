@@ -1,5 +1,5 @@
 <#
-    NTFS Artifacts - SSTool (Scaan)
+    NTFS Artifacts (Scaan)
 
     Saca el $LogFile y/o el $I30 de las carpetas habituales directamente del disco
     (sin FTK Imager), los pasa a CSV y los abre en Timeline Explorer.
